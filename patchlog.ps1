@@ -14,4 +14,4 @@ $output=foreach($line in (Get-Content $file)){
    }
 #Writing output to text file   
 $output | tee output.txt   
-echo "Report saved - hotfix-output.txt"
+echo "Report saved - output.txt"
