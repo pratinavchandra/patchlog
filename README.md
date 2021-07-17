@@ -3,7 +3,6 @@ A powershell script that extracts patching history and last boot time from multi
 <br>
 <br>
 - Specify server IPs/hostnames in hosts.txt and run script
-- Output in output.txt
 <br>
 
 ```text
